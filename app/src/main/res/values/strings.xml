@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BorschiMobile</string>
+    <string name="title_producto_list">Productos</string>
+    <string name="title_producto_detail">Producto Detail</string>
+</resources>
