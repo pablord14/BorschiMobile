@@ -2,4 +2,6 @@
     <string name="app_name">BorschiMobile</string>
     <string name="title_producto_list">Productos</string>
     <string name="title_producto_detail">Producto Detail</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

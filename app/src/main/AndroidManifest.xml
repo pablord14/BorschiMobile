@@ -14,14 +14,13 @@
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name=".UserActivity" />
-        <activity android:name=".PopUpCarritoActivity"
-            android:theme="@android:style/Theme.Dialog">
-        </activity>
+        <activity
+            android:name=".PopUpCarritoActivity"
+            android:theme="@android:style/Theme.Dialog" />
     </application>
 
 </manifest>
